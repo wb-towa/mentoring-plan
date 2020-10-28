@@ -17,6 +17,8 @@
 
 [How To Be A Good Mentor](https://www.growthmentor.com/blog/how-to-be-a-good-mentor/)
 
+[8 Tips For An Amazing Mentor Relationship](https://www.forbes.com/sites/laurencebradford/2018/01/31/8-tips-for-an-amazing-mentor-relationship/)
+
 
 ## Software / Engineering specific considerations
 
